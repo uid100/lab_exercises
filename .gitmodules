@@ -1,3 +1,6 @@
 [submodule "PythonLabs"]
 	path = PythonLabs
 	url = https://github.com/uid100/PythonLabs.git
+[submodule "JavaLabExercises"]
+	path = JavaLabExercises
+	url = https://github.com/uid100/JavaLabExercises.git
