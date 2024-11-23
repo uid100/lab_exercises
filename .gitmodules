@@ -1,0 +1,3 @@
+[submodule "PythonLabs"]
+	path = PythonLabs
+	url = https://github.com/uid100/PythonLabs.git
